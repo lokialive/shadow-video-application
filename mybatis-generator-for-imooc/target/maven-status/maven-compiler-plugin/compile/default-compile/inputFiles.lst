@@ -1,0 +1,12 @@
+/Users/stark.ztli/IdeaProjects/liston-shadow/mybatis-generator-for-imooc/src/main/java/com/liston/mapper/VlogMapper.java
+/Users/stark.ztli/IdeaProjects/liston-shadow/mybatis-generator-for-imooc/src/main/java/com/liston/my/mapper/MyMapper.java
+/Users/stark.ztli/IdeaProjects/liston-shadow/mybatis-generator-for-imooc/src/main/java/com/liston/pojo/Fans.java
+/Users/stark.ztli/IdeaProjects/liston-shadow/mybatis-generator-for-imooc/src/main/java/com/liston/mapper/FansMapper.java
+/Users/stark.ztli/IdeaProjects/liston-shadow/mybatis-generator-for-imooc/src/main/java/com/liston/pojo/Vlog.java
+/Users/stark.ztli/IdeaProjects/liston-shadow/mybatis-generator-for-imooc/src/main/java/com/liston/mybatis/utils/GeneratorDisplay.java
+/Users/stark.ztli/IdeaProjects/liston-shadow/mybatis-generator-for-imooc/src/main/java/com/liston/mapper/CommentMapper.java
+/Users/stark.ztli/IdeaProjects/liston-shadow/mybatis-generator-for-imooc/src/main/java/com/liston/mapper/UsersMapper.java
+/Users/stark.ztli/IdeaProjects/liston-shadow/mybatis-generator-for-imooc/src/main/java/com/liston/pojo/Comment.java
+/Users/stark.ztli/IdeaProjects/liston-shadow/mybatis-generator-for-imooc/src/main/java/com/liston/pojo/MyLikedVlog.java
+/Users/stark.ztli/IdeaProjects/liston-shadow/mybatis-generator-for-imooc/src/main/java/com/liston/mapper/MyLikedVlogMapper.java
+/Users/stark.ztli/IdeaProjects/liston-shadow/mybatis-generator-for-imooc/src/main/java/com/liston/pojo/Users.java
